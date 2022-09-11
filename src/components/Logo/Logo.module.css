@@ -1,0 +1,19 @@
+.c-logo {
+    grid-column: 1 / 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: purple;
+}
+a:active {
+    color: rgb(17, 164, 22);
+}

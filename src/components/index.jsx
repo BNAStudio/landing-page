@@ -1,2 +1,5 @@
 export { default as Template } from './Template/Template.jsx'
-export { default as Header } from './NavMenu/NavMenu.jsx'
+export { default as NavMenu } from './NavMenu/NavMenu.jsx'
+export { default as SwitchColor } from './SwitchColor/SwitchColor.jsx'
+export { default as SwitchLanguage } from './SwitchLanguage/SwitchLanguage.jsx'
+export { default as Logo } from './Logo/Logo.jsx'

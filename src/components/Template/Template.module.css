@@ -8,9 +8,9 @@
     grid-template-rows: auto;
 }
 
-.header__logo {
-    grid-column: 1 / 2;
+.c-switch {
+    margin: 5%;
+    grid-column: 3 / 4;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-flow: column;
 }

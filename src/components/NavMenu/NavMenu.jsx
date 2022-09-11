@@ -5,7 +5,7 @@ import css from './NavMenu.module.css'
 const NavMenu = () => {
     return (
         <div className={css[`${'navMenu'}`]}>
-            NavMenu
+            NAV MENU
         </div>
     )
 }
