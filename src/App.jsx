@@ -5,7 +5,7 @@ import { Template } from './components/index'
 const App = () => {
   return (
     <>
-      <Template />
+        <Template />
     </>
   )
 }
