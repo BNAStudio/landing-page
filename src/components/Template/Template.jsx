@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import css from './Template.module.css'
+import { Row } from '../Row/Row'
 import { 
     Logo,
     NavMenu, 
@@ -19,6 +20,9 @@ const Template = () => {
                     <SwitchLanguage />
                 </div>
             </div>
+                <Row display='flex' justify-content='center'>
+                    <p>dominio</p>
+                </Row>
         </>
     )
 }
